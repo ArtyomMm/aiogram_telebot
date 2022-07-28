@@ -1,0 +1,210 @@
+{
+    "term": "new york",
+    "moresuggestions": 10,
+    "autoSuggestInstance": null,
+    "trackingID": "d0d7494ae47b4ab3bfcebcf67dc62809",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "2621",
+                    "destinationId": "1506246",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.75668,
+                    "longitude": -73.98647,
+                    "searchDetail": null,
+                    "caption": "Нью-Йорк, Нью-Йорк, США (<span class='highlighted'>New</span> <span class='highlighted'>York</span> City)",
+                    "name": "Нью-Йорк"
+                },
+                {
+                    "geoId": "553248633938969338",
+                    "destinationId": "10819060",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.75959100671596,
+                    "longitude": -73.98491224065128,
+                    "searchDetail": null,
+                    "caption": "Центральный Нью-Йорк, Нью-Йорк, Нью-Йорк, США",
+                    "name": "Центральный Нью-Йорк"
+                },
+                {
+                    "geoId": "129440",
+                    "destinationId": "1535616",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.77827894430704,
+                    "longitude": -73.96990559824117,
+                    "searchDetail": null,
+                    "caption": "Манхэттен, Нью-Йорк, Нью-Йорк, США",
+                    "name": "Манхэттен"
+                },
+                {
+                    "geoId": "177851",
+                    "destinationId": "1496773",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.678177,
+                    "longitude": -73.94416,
+                    "searchDetail": null,
+                    "caption": "Бруклин, Нью-Йорк, США",
+                    "name": "Бруклин"
+                },
+                {
+                    "geoId": "6223352",
+                    "destinationId": "1748361",
+                    "landmarkCityDestinationId": null,
+                    "type": "NEIGHBORHOOD",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.65908895645548,
+                    "longitude": -73.87840467206412,
+                    "searchDetail": null,
+                    "caption": "Ист-Нью-Йорк, Нью-Йорк, США",
+                    "name": "Ист-Нью-Йорк"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "19768",
+                    "destinationId": "112922",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.76225,
+                    "longitude": -73.97874,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>New</span> <span class='highlighted'>York</span> Hilton Midtown, Нью-Йорк, Нью-Йорк, США",
+                    "name": "New York Hilton Midtown"
+                },
+                {
+                    "geoId": "1401996",
+                    "destinationId": "238232",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 47.49838,
+                    "longitude": 19.07036,
+                    "searchDetail": null,
+                    "caption": "Anantara <span class='highlighted'>New</span> <span class='highlighted'>York</span> Palace Budapest, Будапешт, Венгрия",
+                    "name": "Anantara New York Palace Budapest"
+                },
+                {
+                    "geoId": "41080",
+                    "destinationId": "123169",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.102865,
+                    "longitude": -115.17352,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>New</span> <span class='highlighted'>York</span> New York Hotel & Casino, Лас-Вегас, Невада, США",
+                    "name": "New York New York Hotel & Casino"
+                },
+                {
+                    "geoId": "15838",
+                    "destinationId": "115902",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.758234,
+                    "longitude": -73.985457,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>New</span> <span class='highlighted'>York</span> Marriott Marquis, Нью-Йорк, Нью-Йорк, США",
+                    "name": "New York Marriott Marquis"
+                },
+                {
+                    "geoId": "11543564",
+                    "destinationId": "531817",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 34.77019,
+                    "longitude": 32.41406,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>New</span> <span class='highlighted'>York</span> Plaza Hotel Apartments, Пафос, Кипр",
+                    "name": "New York Plaza Hotel Apartments"
+                },
+                {
+                    "geoId": "1066613",
+                    "destinationId": "230033",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 48.87149,
+                    "longitude": 2.78589,
+                    "searchDetail": null,
+                    "caption": "Disney's Hotel <span class='highlighted'>New</span> <span class='highlighted'>York</span> - The Art of Marvel, Шесси, Сена и Марна (департамент), Франция",
+                    "name": "Disney's Hotel New York - The Art of Marvel"
+                },
+                {
+                    "geoId": "41009",
+                    "destinationId": "126913",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.75253,
+                    "longitude": -73.993218,
+                    "searchDetail": null,
+                    "caption": "The <span class='highlighted'>New</span> <span class='highlighted'>York</span>er A Wyndham Hotel, Нью-Йорк, Нью-Йорк, США",
+                    "name": "The New Yorker A Wyndham Hotel"
+                },
+                {
+                    "geoId": "129324",
+                    "destinationId": "339551",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.753914,
+                    "longitude": -73.985978,
+                    "searchDetail": null,
+                    "caption": "Courtyard by Marriott <span class='highlighted'>New</span> <span class='highlighted'>York</span> Manhattan/Times Square, Нью-Йорк, Нью-Йорк, США",
+                    "name": "Courtyard by Marriott New York Manhattan/Times Square"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": [
+                {
+                    "geoId": "502080",
+                    "destinationId": "1409835",
+                    "landmarkCityDestinationId": "1506246",
+                    "type": "LANDMARK",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.757410161691084,
+                    "longitude": -73.98618346732785,
+                    "searchDetail": null,
+                    "caption": "Таймс-сквер, Нью-Йорк, Нью-Йорк, США",
+                    "name": "Таймс-сквер"
+                }
+            ]
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": [
+                {
+                    "geoId": "4933194",
+                    "destinationId": "1662393",
+                    "landmarkCityDestinationId": null,
+                    "type": "AIRPORT",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 40.644166,
+                    "longitude": -73.782548,
+                    "searchDetail": null,
+                    "caption": "Нью-Йорк, Нью-Йорк, США (JFK-Джон Ф. Кеннеди, международный)",
+                    "name": "Нью-Йорк, Нью-Йорк (JFK-Джон Ф. Кеннеди, международный)"
+                }
+            ]
+        }
+    ],
+    "geocodeFallback": false
+}

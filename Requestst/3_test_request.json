@@ -1,0 +1,480 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "pdpHeader": {
+                "hotelId": "260158",
+                "destinationId": "1505096",
+                "pointOfSaleId": "HCOM_RU",
+                "currencyCode": "RUB",
+                "occupancyKey": "A1",
+                "hotelLocation": {
+                    "coordinates": {
+                        "latitude": 40.723269,
+                        "longitude": -74.231831
+                    },
+                    "resolvedLocation": "CITY:1505096:PROVIDED:PROVIDED",
+                    "locationName": "Ирвингтон"
+                }
+            },
+            "overview": {
+                "overviewSections": [
+                    {
+                        "title": "Основные услуги и удобства",
+                        "type": "HOTEL_FEATURE",
+                        "content": [
+                            "Ежедневная уборка номеров",
+                            "Обслуживание номеров",
+                            "Бизнес-центр",
+                            "Круглосуточная работа стойки регистрации",
+                            "Банкомат или банковские услуги",
+                            "Торговый автомат",
+                            "Бесплатные газеты в вестибюле",
+                            "Помощь туристам/услуги по бронированию билетов",
+                            "Телевизор в общественной зоне",
+                            "Бесплатные WiFi и парковка"
+                        ],
+                        "contentType": "LIST"
+                    },
+                    {
+                        "title": "Что интересного поблизости",
+                        "type": "LOCATION_SECTION",
+                        "content": [
+                            "Парк Монтгомери – в 19 мин ходьбы",
+                            "RWJBarnabas Health – в 28 мин ходьбы",
+                            "Children's Hospital of New Jersey at Newark Beth Israel Medical Center – в 30 мин ходьбы",
+                            "Newark Beth Israel Medical Center – в 30 мин ходьбы",
+                            "Newark Beth Israel Medical Center – в 31 мин ходьбы",
+                            "Университет Сетон Холл – в 44 мин ходьбы",
+                            "East Orange General Hospital – в 4 км",
+                            "East Orange General Hospital – в 4 км",
+                            "Greater Mount Moriah Baptist Church – в 4,1 км",
+                            "Университет медицины и стоматологии Нью-Джерси – в 4,4 км",
+                            "University Hospital – в 4,5 км"
+                        ],
+                        "contentType": "LIST"
+                    },
+                    {
+                        "type": "TAGLINE",
+                        "content": [
+                            "<b>Отель с основными удобствами (Ирвингтон) </b>"
+                        ],
+                        "contentType": "LIST"
+                    },
+                    {
+                        "type": "HOTEL_FREEBIES",
+                        "content": [
+                            "Бесплатные WiFi и парковка"
+                        ],
+                        "contentType": "LIST"
+                    }
+                ]
+            },
+            "hotelWelcomeRewards": {
+                "applies": true,
+                "info": "В этом объекте размещения можно набрать штампы по программе Hotels.com™ Rewards"
+            },
+            "propertyDescription": {
+                "clientToken": "SgBDQMb00ls9r-JNbFg1OdfyAvQ.",
+                "localisedAddress": {
+                    "countryName": "United States",
+                    "cityName": "Irvington",
+                    "postalCode": "07111",
+                    "provinceName": "NJ",
+                    "addressLine1": "100 Union Avenue",
+                    "countryCode": "USA",
+                    "pattern": "AddressLine1,#AddressLine2,#CityName#PostalCode,#ProvinceName,#CountryCode",
+                    "fullAddress": "100 Union Avenue, Irvington 07111, NJ, USA"
+                },
+                "address": {
+                    "countryName": "United States of America",
+                    "cityName": "Irvington",
+                    "postalCode": "07111",
+                    "provinceName": "NJ",
+                    "addressLine1": "100 Union Avenue",
+                    "countryCode": "USA",
+                    "pattern": "AddressLine1,#AddressLine2,#CityName,#ProvinceName,#PostalCode,#CountryName",
+                    "fullAddress": "100 Union Avenue, Irvington, NJ, 07111, United States of America"
+                },
+                "priceMatchEnabled": false,
+                "name": "Red Carpet Inn Newark Irvington, NJ",
+                "starRatingTitle": "2-звездочный",
+                "starRating": 2.0,
+                "featuredPrice": {
+                    "beforePriceText": "Самая низкая цена",
+                    "afterPriceText": "",
+                    "pricingAvailability": "доступно на 31/07/2022",
+                    "pricingTooltip": "Цена может быть доступна для других дат",
+                    "currentPrice": {
+                        "formatted": "4,074 RUB",
+                        "plain": 4074.0
+                    },
+                    "oldPrice": "4,641 RUB",
+                    "taxInclusiveFormatting": false,
+                    "bookNowButton": false
+                },
+                "mapWidget": {
+                    "staticMapUrl": "https://maps-api-ssl.google.com/maps/api/staticmap?center=40.723269,-74.231831&format=jpg&sensor=false&key=AIzaSyDaDqDNrxWrxcURixO2l6TbtV68X0Klf4U&zoom=16&size=834x443&scale&signature&signature=AewjlR22OWkf2PH_BeV9mpQAP0I="
+                },
+                "renovationInfo": "В период с 1 июля 2021 года по 1 сентября 2022 года следующие услуги будут недоступны (даты могут измениться):<ul><li>Ресторан(-ы)</li><li>Фитнес-центры</li><li>Трансферы</li></ul>",
+                "roomTypeNames": [
+                    "Номер «Делюкс», 1 двуспальная кровать «Кинг-сайз»",
+                    "Номер",
+                    "Номер"
+                ],
+                "tagline": [
+                    "<b>Отель с основными удобствами (Ирвингтон) </b>"
+                ],
+                "freebies": [
+                    "Бесплатные WiFi и парковка"
+                ]
+            },
+            "guestReviews": {
+                "brands": {
+                    "scale": 10.0,
+                    "formattedScale": "10",
+                    "rating": 5.8,
+                    "formattedRating": "5,8",
+                    "lowRating": false,
+                    "total": 1404
+                }
+            },
+            "atAGlance": {
+                "keyFacts": {
+                    "hotelSize": [
+                        "В этом отеле 50 номеров",
+                        "В этом отеле 3 этажа"
+                    ],
+                    "arrivingLeaving": [
+                        "Время прибытия 15:00—02:00",
+                        "Время выезда  11:00",
+                        "Ускоренный выезд из объекта"
+                    ],
+                    "specialCheckInInstructions": [
+                        "Портье или персонал стойки регистрации встретит гостей по прибытии. "
+                    ],
+                    "requiredAtCheckIn": [
+                        "Требуется залог посредством кредитной либо дебетовой карты или наличными на случай непредвиденных расходов",
+                        "Необходимо предъявить официальное удостоверение личности с фотографией",
+                        "Минимальный возраст для самостоятельной регистрации — 18"
+                    ]
+                },
+                "travellingOrInternet": {
+                    "travelling": {
+                        "children": [],
+                        "pets": [
+                            "Содержание домашних животных не разрешено",
+                            "Разрешается привозить с собой животных-поводырей"
+                        ],
+                        "extraPeople": []
+                    },
+                    "internet": [
+                        "Бесплатный WiFi в общественных зонах",
+                        "Бесплатный WiFi и проводной интернет в номерах"
+                    ]
+                },
+                "transportAndOther": {
+                    "transport": {
+                        "transfers": [],
+                        "parking": [
+                            "<em>Бесплатная</em> самостоятельная парковка на территории",
+                            "Долгосрочная парковка (за дополнительную плату) на территории (взимается плата)"
+                        ],
+                        "offsiteTransfer": []
+                    },
+                    "otherInformation": [],
+                    "otherInclusions": []
+                }
+            },
+            "amenities": [
+                {
+                    "heading": "В отеле",
+                    "listItems": [
+                        {
+                            "heading": "Еда и напитки",
+                            "listItems": [
+                                "Обслуживание номеров"
+                            ]
+                        },
+                        {
+                            "heading": "Для бизнес-путешественника",
+                            "listItems": [
+                                "Бизнес-центр"
+                            ]
+                        },
+                        {
+                            "heading": "Услуги",
+                            "listItems": [
+                                "Круглосуточная стойка регистрации",
+                                "Помощь в приобретении экскурсий или билетов",
+                                "Бесплатные газеты в вестибюле"
+                            ]
+                        },
+                        {
+                            "heading": "Услуги и удобства",
+                            "listItems": [
+                                "Количество зданий или корпусов -  2",
+                                "Год постройки:  1965",
+                                "Лифт",
+                                "Банкомат или банковские услуги",
+                                "Специализированные места для курения",
+                                "Телевизоры в зонах общего пользования"
+                            ]
+                        },
+                        {
+                            "heading": "Услуги для лиц с ограниченными возможностями",
+                            "listItems": [
+                                "Указатели по системе Брайля или рельефные указатели",
+                                "Ванная комната для людей с ограниченными возможностями",
+                                "Номер приспособлен для людей с ограниченными возможностями",
+                                "Проезд для людей с ограниченными возможностями",
+                                "Стойка регистрации, доступная для людей в инвалидном кресле",
+                                "Аварийная пожарная сигнализация в коридорах",
+                                "Указатели по системе Брайля",
+                                "ТВ с субтитрами для слабослышащих",
+                                "Съемное сиденье для ванной",
+                                "Высокое сиденье для унитаза",
+                                "Поручневая скоба возле туалета",
+                                "Поручневая скоба в ванной",
+                                "Поручневая скоба в душе",
+                                "Передвижной душ",
+                                "Ванна для людей с ограниченными возможностями"
+                            ]
+                        },
+                        {
+                            "heading": "Владение языками",
+                            "listItems": [
+                                "Английский",
+                                "Африкаанс",
+                                "Испанский",
+                                "Хинди"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "В номере",
+                    "listItems": [
+                        {
+                            "heading": "Домашние удобства",
+                            "listItems": [
+                                "Система кондиционирования в номере (климат-контроль)",
+                                "Утюг и гладильная доска"
+                            ]
+                        },
+                        {
+                            "heading": "Спите спокойно",
+                            "listItems": [
+                                "Шторы для полного затемнения",
+                                "Вечерняя подготовка номера ко сну"
+                            ]
+                        },
+                        {
+                            "heading": "Освежитесь",
+                            "listItems": [
+                                "Индивидуальная ванная комната",
+                                "Совмещенные душ и ванна",
+                                "Бесплатные туалетные принадлежности",
+                                "Фен"
+                            ]
+                        },
+                        {
+                            "heading": "Развлекайтесь",
+                            "listItems": [
+                                "42-дюйм. ЖК-телевизоры",
+                                "Платные фильмы",
+                                "Платные телеканалы"
+                            ]
+                        },
+                        {
+                            "heading": "Оставайтесь на связи",
+                            "listItems": [
+                                "Письменный стол",
+                                "Бесплатный Wi-Fi",
+                                "Бесплатные местные звонки"
+                            ]
+                        },
+                        {
+                            "heading": "Прочее",
+                            "listItems": [
+                                "Ежедневная уборка номера",
+                                "Предоставляются смежные номера"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "hygieneAndCleanliness": {
+                "title": "COVID-19: гигиена и чистота",
+                "healthAndSafetyMeasures": {
+                    "title": "Усиленные меры по охране здоровья и безопасности",
+                    "description": "Объект сообщает, что в настоящее время принимает усиленные меры по проведению санитарной обработки и обеспечению безопасности гостей.",
+                    "measures": [
+                        "Объект размещения обрабатывается дезинфицирующим средством",
+                        "Персонал носит СИЗ",
+                        "Объект размещения в настоящее время применяет усиленные меры по проведению санитарной обработки",
+                        "Предусмотрена перегородка между гостями и персоналом в основных зонах контакта",
+                        "Соблюдается безопасное расстояние"
+                    ]
+                }
+            },
+            "smallPrint": {
+                "alternativeNames": [
+                    "Americas Best Value Inn Newark",
+                    "Red Carpet Inn Newark Airport",
+                    "Red Carpet Inn Newark/Irvington NJ",
+                    "Red Carpet Inn Newark Irvington, NJ Hotel",
+                    "Red Carpet Inn Newark Airport Irvington",
+                    "Red Carpet Inn Newark Irvington, NJ Irvington",
+                    "Red Carpet Inn Newark Irvington, NJ Hotel Irvington",
+                    "Americas Best Value Inn Newark Airport Hotel",
+                    "Americas Best Value Inn Newark Airport Hotel Irvington",
+                    "Americas Best Value Inn Newark Airport Irvington",
+                    "Americas Best Value Newark Airport Irvington",
+                    "Americas Best Value Newark Airport",
+                    "Red Carpet Newark Airport Irvington"
+                ],
+                "mandatoryFees": [],
+                "optionalExtras": [
+                    "<p><strong>Долгосрочная парковка</strong> предоставляется за дополнительную плату</p> "
+                ],
+                "policies": [
+                    "<p>В этом отеле есть смежные/соседние номера, которые могут быть предоставлены в зависимости от наличия. Для того чтобы запросить смежные/соседние номера, свяжитесь с отелем напрямую по телефону, указанному в подтверждении бронирования. </p><p>Шумоизоляция в номерах не гарантируется. </p><p>Этот объект размещения сообщает о том, что в настоящее время в нем принимаются следующие меры: усиленная уборка и обеспечение безопасности гостей.</p><p>При уборке объекта используются дезинфицирующие средства.</p><p>Социальное дистанцирование; использование персоналом средств индивидуальной защиты; наличие защитных пластиковых экранов между персоналом и гостями в основных общественных зонах.</p><p>Доступна бесконтактная регистрация выезда.</p>",
+                    "<p>Этот объект размещения принимает к оплате кредитные карты. Наличные не принимаются.</p>"
+                ],
+                "mandatoryTaxesOrFees": false,
+                "display": true
+            },
+            "specialFeatures": {
+                "sections": []
+            },
+            "miscellaneous": {
+                "pimmsAttributes": "DoubleStamps|MESOTESTUS|D13|TESCO",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+            },
+            "pageInfo": {
+                "pageType": "dateless",
+                "errors": [
+                    {
+                        "fieldName": "arrivalDate",
+                        "errorMessages": [
+                            "Указанная дата прибытия предшествует сегодняшней дате."
+                        ]
+                    }
+                ],
+                "errorKeys": [
+                    "MALFORMED_DATEFUL_REQUEST"
+                ]
+            },
+            "unavailable": {}
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": " ,",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop34": "2022.06.949",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "RUB",
+                    "s.eVar26": "US:TX:DENTON:623",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.products": "LOCAL;1768627",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar95": "Unknown",
+                    "s.eVar41": "RUB",
+                    "s.eVar31": "D=v0",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+                    "s.eVar32": "D=v0",
+                    "s.eVar34": "H1068:005.001,H1871:007.002,M4869:001.000,M4953:001.000,M5342:000.000,M5756:001.000,M5758:001.000,M5759:001.000,M5760:001.000,M6271:001.000,M6439:000.000,M6553:000.000,M6946:000.000,M7296:000.000,M7305:000.000,M7308:000.000,M7353:000.000,M7362.0,M7635:000.000,M7844:000.000,M7983:000.000,M7990:000.000,M8033:000.000,M8248:000.000,M8336:000.000,M8400:000.000,M9035:000.000,M9056:000.000,M9167:000.000,M9168:000.000,M9469:000.000,M9475:000.000,M9493:000.000,M9629:000.000,M9733:007.001,M9810:000.000,M9890:000.000,M9924:006.002,M9930:000.000,M9974:000.000,M10013:002.001,M10025:000.000,M10049:000.000,M10057:000.000,M10101:000.000,M10268:000.000,M10291:000.000,M10335:000.000,M10473:000.000,M10517:000.000,M9215:001.000",
+                    "s.eVar13": "389273",
+                    "s.server": "ru.hotels.com",
+                    "s.prop28": "0",
+                    "s.prop27": "15860064-9a04-45f3-a317-634120f64428",
+                    "s.prop5": "389273",
+                    "s.eVar80": "",
+                    "s.prop48": "hotel details without dates description tab",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-west-2.unknown"
+                },
+                "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&rooms=1&destRegionID=1505096&hotelIds=&adults=1&userAgent=PDE.4.1.440&userGuid=15860064-9a04-45f3-a317-634120f64428&pageName=Hotel-IS&slots=HIS_Car_A,HIS_Car_B,HIS_Car_C,HIS_Car_D,HIS_Car_E,HIS_Car_F,HIS_Car_G,HIS_Car_H,HIS_Car_I,HIS_Car_J&children=0&culture=ru_RU&testVersionOverride=4200.0,7983.0,7561.0,7990.0,8434.0,9493.0,10473.0&domain=ru.hotels.com&action=pageview&publisher=expedia&userIP=127.0.0.1&programId=1"
+            }
+        }
+    },
+    "transportation": {
+        "transportLocations": [
+            {
+                "category": "airport",
+                "locations": [
+                    {
+                        "name": "Ньюарк, Нью-Джерси (EWR-Либерти, международный)",
+                        "distance": "13,2 км",
+                        "distanceInTime": "– в 14 минутах езды (13,2 км"
+                    },
+                    {
+                        "name": "Международный аэропорт Джона Кеннеди (JFK)",
+                        "distance": "67,9 км",
+                        "distanceInTime": "– в 77 минутах езды (67,9 км"
+                    },
+                    {
+                        "name": "Аэропорт Ла-Гуардия (LGA)",
+                        "distance": "60,5 км",
+                        "distanceInTime": "– в 64 минутах езды (60,5 км"
+                    },
+                    {
+                        "name": "Линден, Нью-Джерси (LDJ)",
+                        "distance": "17,4 км",
+                        "distanceInTime": "– в 27 минутах езды (17,4 км"
+                    },
+                    {
+                        "name": "Колдуэлл, Нью-Йорк (CDW-графство Эссекс)",
+                        "distance": "29,9 км",
+                        "distanceInTime": "– в 30 минутах езды (29,9 км"
+                    },
+                    {
+                        "name": "Морристаун, Нью-Джерси (MMU-Морристаун, муниципальный)",
+                        "distance": "22,9 км",
+                        "distanceInTime": "– в 19 минутах езды (22,9 км"
+                    },
+                    {
+                        "name": "Тетерборо, Нью-Джерси (TEB)",
+                        "distance": "25,7 км",
+                        "distanceInTime": "– в 21 минутах езды (25,7 км"
+                    },
+                    {
+                        "name": "Нью-Йорк, штат Нью-Йорк (NYS-Гидроаэродром Скайпортс)",
+                        "distance": "31,1 км",
+                        "distanceInTime": "– в 22 минутах езды (31,1 км"
+                    }
+                ]
+            },
+            {
+                "category": "train-station",
+                "locations": [
+                    {
+                        "name": "Станция Саут-Ориндж",
+                        "distance": "",
+                        "distanceInTime": "– в 4 мин езды"
+                    },
+                    {
+                        "name": "Станция Ист-Ориндж",
+                        "distance": "",
+                        "distanceInTime": "– в 5 мин езды"
+                    },
+                    {
+                        "name": "Станция Ист-Ориндж-Брик-Черч",
+                        "distance": "",
+                        "distanceInTime": "– в 6 мин езды"
+                    }
+                ]
+            }
+        ]
+    },
+    "neighborhood": {
+        "neighborhoodName": "Даунтаун-Ньюарк"
+    }
+}
